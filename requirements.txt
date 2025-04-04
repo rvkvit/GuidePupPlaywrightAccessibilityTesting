@@ -1,0 +1,9 @@
+robotframework>=4.1.2
+robotframework-browser>=14.0.0
+robotframework-pythonlibcore>=3.0.0
+playwright>=1.30.0
+python-dotenv>=0.19.2
+requests>=2.28.0
+pywinauto>=0.6.8
+pynput>=1.7.6
+robotframework-requests>=0.9.0 
